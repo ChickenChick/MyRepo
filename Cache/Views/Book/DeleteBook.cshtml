@@ -1,0 +1,32 @@
+﻿@using Cache.Contracts.Model
+@model BookSummary
+@{
+    ViewBag.Title = "DeleteBook";
+}
+
+<h2>Удаление книги</h2>
+<dl>
+    <dd>
+        <img src="@Model.Url" height="200">
+    </dd>
+    <dt>Название</dt>
+    <dd>
+        @Html.DisplayFor(model => model.Name)
+    </dd>
+
+    <dt>Цена</dt>
+    <dd>
+        @Html.DisplayFor(model => model.Price)
+    </dd>
+
+    <dt>ID Автора</dt>
+    <dd>
+        @Html.DisplayFor(model => model.AuthorId)
+    </dd>
+</dl>
+ <h3>Уверены, что хотите удалить эту книгу?</h3>
+<br>
+@using (Html.BeginForm())
+{
+    <input type="submit" value="Удалить" />
+}

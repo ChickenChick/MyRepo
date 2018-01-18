@@ -1,0 +1,35 @@
+﻿@using Cache.Contracts.Model
+@model IEnumerable<AuthorSummary>
+@{
+    ViewBag.Title = "ViewAuthors";
+}
+
+<h2 align="center">Список авторов</h2>
+
+<p> <a href="@Url.Action("CreateAuthor","Author")" class="btn btn-primary" role="button"> Добавить </a> 
+    <a href="@Url.Action("Index","Home")" class="btn btn-primary" role="button"> На главную </a>    </p>
+<table class="table table-striped">
+    <tr>
+        <th> Номер </th>
+        <th> Имя  </th>
+        <th> Фамилия  </th>
+        <th> Дата рождения </th>
+        <th></th>
+    </tr>
+    @foreach (var s in Model)
+    {
+        <tr>
+            <td> @s.Id </td>
+            <td> @s.FirstName </td>
+            <td> @s.LastName </td>
+            <td> @s.BirthDay.ToShortDateString() </td>
+            <td width="200">
+                <a href="@Url.Action("DeleteAuthor","Author",new { id = s.Id })" class="btn btn-primary" role="button"> Удалить </a>
+                <a href="@Url.Action("UpdateAuthor","Author",new { id = s.Id })" class="btn btn-primary" role="button"> Изменить </a>
+            </td>
+        </tr>
+    }
+</table>
+             <a href="@Url.Action("Index","Home")" class="btn btn-primary" role="button"> На главную </a>
+
+

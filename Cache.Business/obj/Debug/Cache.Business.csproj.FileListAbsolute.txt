@@ -1,0 +1,29 @@
+D:\Cache\Cache\Cache.Business\bin\Debug\Cache.Business.dll
+D:\Cache\Cache\Cache.Business\bin\Debug\Cache.Business.pdb
+D:\Cache\Cache\Cache.Business\bin\Debug\Cache.Contracts.dll
+D:\Cache\Cache\Cache.Business\bin\Debug\SimpleInjector.dll
+D:\Cache\Cache\Cache.Business\bin\Debug\Cache.Contracts.pdb
+D:\Cache\Cache\Cache.Business\bin\Debug\SimpleInjector.xml
+D:\Cache\Cache\Cache.Business\obj\Debug\Cache.Business.csprojResolveAssemblyReference.cache
+D:\Cache\Cache\Cache.Business\obj\Debug\Cache.Business.csproj.CoreCompileInputs.cache
+D:\Cache\Cache\Cache.Business\obj\Debug\Cache.Business.dll
+D:\Cache\Cache\Cache.Business\obj\Debug\Cache.Business.pdb
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.Business\obj\Debug\Cache.Business.csprojResolveAssemblyReference.cache
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.Business\obj\Debug\Cache.Business.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.Business\obj\Debug\Cache.Business.pdb
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.Business\bin\Debug\Cache.Business.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.Business\bin\Debug\Cache.Business.pdb
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.Business\bin\Debug\Cache.Contracts.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.Business\bin\Debug\SimpleInjector.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.Business\bin\Debug\Cache.Contracts.pdb
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.Business\bin\Debug\SimpleInjector.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache.Business\bin\Debug\Cache.Business.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache.Business\bin\Debug\Cache.Business.pdb
+D:\VS Studio\Cache2\Cache\Cache\Cache.Business\bin\Debug\Cache.Contracts.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache.Business\bin\Debug\SimpleInjector.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache.Business\bin\Debug\Cache.Contracts.pdb
+D:\VS Studio\Cache2\Cache\Cache\Cache.Business\bin\Debug\SimpleInjector.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache.Business\obj\Debug\Cache.Business.csprojResolveAssemblyReference.cache
+D:\VS Studio\Cache2\Cache\Cache\Cache.Business\obj\Debug\Cache.Business.csproj.CoreCompileInputs.cache
+D:\VS Studio\Cache2\Cache\Cache\Cache.Business\obj\Debug\Cache.Business.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache.Business\obj\Debug\Cache.Business.pdb

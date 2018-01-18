@@ -1,0 +1,27 @@
+﻿@using Cache.Contracts.Model
+@model IEnumerable<AuthorSummary>
+@{
+    ViewBag.Title = "SelectAuthors";
+}
+
+<h2>Авторы книги: @ViewBag.bookname </h2>
+
+<table class="table table-hover">
+    <tr>
+        <th> Имя автора </th>
+        <th> Фамилия автора </th>
+        <th> Дата Рождения </th>
+    </tr>
+    @foreach (var b in Model)
+    {
+        <tr>
+            <td> @b.FirstName </td>
+            <td> @b.LastName </td>
+            <td> @b.BirthDay.ToShortDateString() </td>
+        </tr>
+
+    }
+</table>
+
+
+

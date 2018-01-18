@@ -1,0 +1,30 @@
+﻿@using Cache.Contracts.Model
+@model AuthorSummary
+@{
+    ViewBag.Title = "DeleteAuthor";
+}
+
+
+<h2> Удаление автора № @Model.Id </h2>
+<dl>
+    <dt>Имя</dt>
+    <dd>
+        @Html.DisplayFor(model => model.FirstName)
+    </dd>
+
+    <dt> Фамилия </dt>
+    <dd>
+        @Html.DisplayFor(model => model.LastName)
+    </dd>
+
+    <dt> Дата рождения </dt>
+    <dd>
+        @Html.DisplayFor(model => model.BirthDay)
+    </dd>
+</dl>
+<h3>Уверены, что хотите исключить этого автора?</h3>
+<br>
+@using (Html.BeginForm())
+{
+    <input type="submit" value="Удалить" />
+}

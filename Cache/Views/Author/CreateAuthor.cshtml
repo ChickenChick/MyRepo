@@ -1,0 +1,25 @@
+﻿@using Cache.Contracts.Model
+@model AuthorSummary
+@{
+    ViewBag.Title = "CreateAuthor";
+}
+
+<h2>Добавить автора</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(model => model.FirstName, "Имя автора")
+    <br />
+    @Html.EditorFor(model => model.FirstName)
+    <br /><br />
+    @Html.LabelFor(model => model.LastName, "Фамилия автора")
+    <br />
+    @Html.EditorFor(model => model.LastName)
+    <br /><br />
+    @Html.LabelFor(model => model.BirthDay, "Дата рождения")
+    <br />
+    @Html.EditorFor(model => model.BirthDay)
+
+    <input type="submit" value="Добавить" />
+}
+

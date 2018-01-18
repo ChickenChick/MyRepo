@@ -1,0 +1,680 @@
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\ApplicationInsights.config
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\roslyn\csc.exe
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\roslyn\csc.exe.config
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\roslyn\csc.rsp
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\roslyn\csi.exe
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\roslyn\csi.rsp
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\roslyn\System.AppContext.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\roslyn\vbc.exe
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\roslyn\vbc.exe.config
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\roslyn\vbc.rsp
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\Cache.dll.config
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\Cache.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\Cache.pdb
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\Antlr3.Runtime.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\EntityFramework.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\EntityFramework.SqlServer.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\Microsoft.AI.Web.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\Newtonsoft.Json.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\System.Web.Helpers.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\System.Web.Mvc.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\System.Web.Optimization.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\System.Web.Razor.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\System.Web.WebPages.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\WebGrease.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\EntityFramework.xml
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\EntityFramework.SqlServer.xml
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\System.Web.Helpers.xml
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\System.Web.Mvc.xml
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\System.Web.Optimization.xml
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\System.Web.Razor.xml
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\System.Web.WebPages.xml
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\Antlr3.Runtime.pdb
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\Newtonsoft.Json.xml
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\bin\Microsoft.AI.Web.xml
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\obj\Debug\Cache.csprojResolveAssemblyReference.cache
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\obj\Debug\Cache.dll
+C:\Users\Nuare\documents\visual studio 2017\Projects\Cache\Cache\obj\Debug\Cache.pdb
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\ApplicationInsights.config
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\roslyn\csc.exe
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\roslyn\csc.exe.config
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\roslyn\csc.rsp
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\roslyn\csi.exe
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\roslyn\csi.rsp
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\roslyn\System.AppContext.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\roslyn\vbc.exe
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\roslyn\vbc.exe.config
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\roslyn\vbc.rsp
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Cache.dll.config
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Cache.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Cache.pdb
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Antlr3.Runtime.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\EntityFramework.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\EntityFramework.SqlServer.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.AI.Web.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Newtonsoft.Json.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\System.Web.Helpers.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\System.Web.Mvc.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\System.Web.Optimization.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\System.Web.Razor.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\System.Web.WebPages.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\WebGrease.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\EntityFramework.xml
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\EntityFramework.SqlServer.xml
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\System.Web.Helpers.xml
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\System.Web.Mvc.xml
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\System.Web.Optimization.xml
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\System.Web.Razor.xml
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\System.Web.WebPages.xml
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Antlr3.Runtime.pdb
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Newtonsoft.Json.xml
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.AI.Web.xml
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\obj\Debug\Cache.csprojResolveAssemblyReference.cache
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\obj\Debug\Cache.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\obj\Debug\Cache.pdb
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.Owin.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.Owin.Security.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Owin.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.Owin.xml
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.Owin.Security.xml
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Nuare\Desktop\HomeWork(Cache)\Cache\Cache\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Cache\Cache\Cache\obj\Debug\Cache.csprojResolveAssemblyReference.cache
+D:\Cache\Cache\Cache\obj\Debug\Cache.csproj.CoreCompileInputs.cache
+D:\Cache\Cache\Cache\obj\Debug\Cache.dll
+D:\Cache\Cache\Cache\obj\Debug\Cache.pdb
+D:\Cache\Cache\Cache\bin\ApplicationInsights.config
+D:\Cache\Cache\Cache\bin\roslyn\csc.exe
+D:\Cache\Cache\Cache\bin\roslyn\csc.exe.config
+D:\Cache\Cache\Cache\bin\roslyn\csc.rsp
+D:\Cache\Cache\Cache\bin\roslyn\csi.exe
+D:\Cache\Cache\Cache\bin\roslyn\csi.rsp
+D:\Cache\Cache\Cache\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Cache\Cache\Cache\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Cache\Cache\Cache\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Cache\Cache\Cache\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Cache\Cache\Cache\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Cache\Cache\Cache\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Cache\Cache\Cache\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Cache\Cache\Cache\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Cache\Cache\Cache\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Cache\Cache\Cache\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Cache\Cache\Cache\bin\roslyn\System.AppContext.dll
+D:\Cache\Cache\Cache\bin\roslyn\System.Collections.Immutable.dll
+D:\Cache\Cache\Cache\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Cache\Cache\Cache\bin\roslyn\System.IO.FileSystem.dll
+D:\Cache\Cache\Cache\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Cache\Cache\Cache\bin\roslyn\System.Reflection.Metadata.dll
+D:\Cache\Cache\Cache\bin\roslyn\vbc.exe
+D:\Cache\Cache\Cache\bin\roslyn\vbc.exe.config
+D:\Cache\Cache\Cache\bin\roslyn\vbc.rsp
+D:\Cache\Cache\Cache\bin\roslyn\VBCSCompiler.exe
+D:\Cache\Cache\Cache\bin\roslyn\VBCSCompiler.exe.config
+D:\Cache\Cache\Cache\bin\Cache.dll.config
+D:\Cache\Cache\Cache\bin\Cache.dll
+D:\Cache\Cache\Cache\bin\Cache.pdb
+D:\Cache\Cache\Cache\bin\Antlr3.Runtime.dll
+D:\Cache\Cache\Cache\bin\Cache.Business.dll
+D:\Cache\Cache\Cache\bin\Cache.Contracts.dll
+D:\Cache\Cache\Cache\bin\Cache.DAL.dll
+D:\Cache\Cache\Cache\bin\EntityFramework.dll
+D:\Cache\Cache\Cache\bin\EntityFramework.SqlServer.dll
+D:\Cache\Cache\Cache\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Cache\Cache\Cache\bin\Microsoft.AI.DependencyCollector.dll
+D:\Cache\Cache\Cache\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Cache\Cache\Cache\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Cache\Cache\Cache\bin\Microsoft.AI.Web.dll
+D:\Cache\Cache\Cache\bin\Microsoft.AI.WindowsServer.dll
+D:\Cache\Cache\Cache\bin\Microsoft.ApplicationInsights.dll
+D:\Cache\Cache\Cache\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Cache\Cache\Cache\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Cache\Cache\Cache\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Cache\Cache\Cache\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Cache\Cache\Cache\bin\Microsoft.Owin.dll
+D:\Cache\Cache\Cache\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Cache\Cache\Cache\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Cache\Cache\Cache\bin\Microsoft.Owin.Security.dll
+D:\Cache\Cache\Cache\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Cache\Cache\Cache\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Cache\Cache\Cache\bin\Microsoft.Web.Infrastructure.dll
+D:\Cache\Cache\Cache\bin\Newtonsoft.Json.dll
+D:\Cache\Cache\Cache\bin\Owin.dll
+D:\Cache\Cache\Cache\bin\SimpleInjector.dll
+D:\Cache\Cache\Cache\bin\SimpleInjector.Integration.Web.dll
+D:\Cache\Cache\Cache\bin\SimpleInjector.Integration.Web.Mvc.dll
+D:\Cache\Cache\Cache\bin\System.Web.Helpers.dll
+D:\Cache\Cache\Cache\bin\System.Web.Mvc.dll
+D:\Cache\Cache\Cache\bin\System.Web.Optimization.dll
+D:\Cache\Cache\Cache\bin\System.Web.Razor.dll
+D:\Cache\Cache\Cache\bin\System.Web.WebPages.Deployment.dll
+D:\Cache\Cache\Cache\bin\System.Web.WebPages.dll
+D:\Cache\Cache\Cache\bin\System.Web.WebPages.Razor.dll
+D:\Cache\Cache\Cache\bin\WebGrease.dll
+D:\Cache\Cache\Cache\bin\Cache.Business.pdb
+D:\Cache\Cache\Cache\bin\Cache.Contracts.pdb
+D:\Cache\Cache\Cache\bin\Cache.DAL.pdb
+D:\Cache\Cache\Cache\bin\Cache.DAL.dll.config
+D:\Cache\Cache\Cache\bin\EntityFramework.xml
+D:\Cache\Cache\Cache\bin\EntityFramework.SqlServer.xml
+D:\Cache\Cache\Cache\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Cache\Cache\Cache\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Cache\Cache\Cache\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Cache\Cache\Cache\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Cache\Cache\Cache\bin\Microsoft.Owin.xml
+D:\Cache\Cache\Cache\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Cache\Cache\Cache\bin\Microsoft.Owin.Security.xml
+D:\Cache\Cache\Cache\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Cache\Cache\Cache\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Cache\Cache\Cache\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Cache\Cache\Cache\bin\SimpleInjector.xml
+D:\Cache\Cache\Cache\bin\SimpleInjector.Integration.Web.xml
+D:\Cache\Cache\Cache\bin\SimpleInjector.Integration.Web.Mvc.xml
+D:\Cache\Cache\Cache\bin\System.Web.Helpers.xml
+D:\Cache\Cache\Cache\bin\System.Web.Mvc.xml
+D:\Cache\Cache\Cache\bin\System.Web.Optimization.xml
+D:\Cache\Cache\Cache\bin\System.Web.Razor.xml
+D:\Cache\Cache\Cache\bin\System.Web.WebPages.xml
+D:\Cache\Cache\Cache\bin\System.Web.WebPages.Deployment.xml
+D:\Cache\Cache\Cache\bin\System.Web.WebPages.Razor.xml
+D:\Cache\Cache\Cache\bin\Antlr3.Runtime.pdb
+D:\Cache\Cache\Cache\bin\Newtonsoft.Json.xml
+D:\Cache\Cache\Cache\bin\Microsoft.ApplicationInsights.xml
+D:\Cache\Cache\Cache\bin\Microsoft.AI.DependencyCollector.xml
+D:\Cache\Cache\Cache\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Cache\Cache\Cache\bin\Microsoft.AI.WindowsServer.xml
+D:\Cache\Cache\Cache\bin\Microsoft.AI.Web.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\ApplicationInsights.config
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\roslyn\csc.exe
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\roslyn\csc.exe.config
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\roslyn\csc.rsp
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\roslyn\csi.exe
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\roslyn\csi.rsp
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\roslyn\System.AppContext.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\roslyn\vbc.exe
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\roslyn\vbc.exe.config
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\roslyn\vbc.rsp
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Cache.dll.config
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Cache.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Cache.pdb
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Antlr3.Runtime.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Cache.Business.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Cache.Contracts.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Cache.DAL.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\EntityFramework.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\EntityFramework.SqlServer.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.AI.Web.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.Owin.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.Owin.Security.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Newtonsoft.Json.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Owin.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\SimpleInjector.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\System.Web.Helpers.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\System.Web.Mvc.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\System.Web.Optimization.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\System.Web.Razor.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\System.Web.WebPages.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\WebGrease.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Cache.Business.pdb
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Cache.Contracts.pdb
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Cache.DAL.pdb
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Cache.DAL.dll.config
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\EntityFramework.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\EntityFramework.SqlServer.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.Owin.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.Owin.Security.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\SimpleInjector.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\System.Web.Helpers.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\System.Web.Mvc.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\System.Web.Optimization.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\System.Web.Razor.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\System.Web.WebPages.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Antlr3.Runtime.pdb
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Newtonsoft.Json.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\bin\Microsoft.AI.Web.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\obj\Debug\Cache.csprojResolveAssemblyReference.cache
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\obj\Debug\Cache.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache\obj\Debug\Cache.pdb
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\ApplicationInsights.config
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\roslyn\csc.exe
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\roslyn\csc.exe.config
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\roslyn\csc.rsp
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\roslyn\csi.exe
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\roslyn\csi.rsp
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\roslyn\System.AppContext.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\roslyn\System.Collections.Immutable.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\roslyn\System.IO.FileSystem.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\roslyn\System.Reflection.Metadata.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\roslyn\vbc.exe
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\roslyn\vbc.exe.config
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\roslyn\vbc.rsp
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\roslyn\VBCSCompiler.exe
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\roslyn\VBCSCompiler.exe.config
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Cache.dll.config
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Cache.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Cache.pdb
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Antlr3.Runtime.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Cache.Business.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Cache.Contracts.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Cache.DAL.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\EntityFramework.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\EntityFramework.SqlServer.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.AI.Agent.Intercept.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.AI.DependencyCollector.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.AI.Web.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.AI.WindowsServer.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.ApplicationInsights.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.AspNet.Identity.Core.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.Owin.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.Owin.Security.Cookies.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.Owin.Security.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.Owin.Security.OAuth.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.Web.Infrastructure.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Newtonsoft.Json.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Owin.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\SimpleInjector.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\SimpleInjector.Integration.Web.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\SimpleInjector.Integration.Web.Mvc.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\System.Web.Helpers.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\System.Web.Mvc.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\System.Web.Optimization.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\System.Web.Razor.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\System.Web.WebPages.Deployment.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\System.Web.WebPages.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\System.Web.WebPages.Razor.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\WebGrease.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Cache.Business.pdb
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Cache.Contracts.pdb
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Cache.DAL.pdb
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Cache.DAL.dll.config
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\EntityFramework.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\EntityFramework.SqlServer.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.AspNet.Identity.Core.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.Owin.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.Owin.Security.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.Owin.Security.Cookies.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.Owin.Security.OAuth.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\SimpleInjector.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\SimpleInjector.Integration.Web.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\SimpleInjector.Integration.Web.Mvc.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\System.Web.Helpers.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\System.Web.Mvc.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\System.Web.Optimization.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\System.Web.Razor.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\System.Web.WebPages.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\System.Web.WebPages.Deployment.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\System.Web.WebPages.Razor.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Antlr3.Runtime.pdb
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Newtonsoft.Json.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.ApplicationInsights.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.AI.DependencyCollector.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.AI.WindowsServer.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache\bin\Microsoft.AI.Web.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache\obj\Debug\Cache.csprojResolveAssemblyReference.cache
+D:\VS Studio\Cache2\Cache\Cache\Cache\obj\Debug\Cache.csproj.CoreCompileInputs.cache
+D:\VS Studio\Cache2\Cache\Cache\Cache\obj\Debug\Cache.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache\obj\Debug\Cache.pdb
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\ApplicationInsights.config
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\roslyn\csc.exe
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\roslyn\csc.exe.config
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\roslyn\csc.rsp
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\roslyn\csi.exe
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\roslyn\csi.rsp
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\roslyn\System.AppContext.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\roslyn\System.Collections.Immutable.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\roslyn\System.IO.FileSystem.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\roslyn\System.Reflection.Metadata.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\roslyn\vbc.exe
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\roslyn\vbc.exe.config
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\roslyn\vbc.rsp
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\roslyn\VBCSCompiler.exe
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\roslyn\VBCSCompiler.exe.config
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Cache.dll.config
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Cache.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Cache.pdb
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Antlr3.Runtime.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Cache.Business.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Cache.Contracts.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Cache.DAL.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\EntityFramework.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\EntityFramework.SqlServer.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.AI.Agent.Intercept.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.AI.DependencyCollector.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.AI.Web.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.AI.WindowsServer.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.ApplicationInsights.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.AspNet.Identity.Core.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.Owin.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.Owin.Security.Cookies.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.Owin.Security.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.Owin.Security.OAuth.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.Web.Infrastructure.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Newtonsoft.Json.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Owin.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\SimpleInjector.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\SimpleInjector.Integration.Web.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\SimpleInjector.Integration.Web.Mvc.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\System.Web.Helpers.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\System.Web.Mvc.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\System.Web.Optimization.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\System.Web.Razor.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\System.Web.WebPages.Deployment.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\System.Web.WebPages.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\System.Web.WebPages.Razor.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\WebGrease.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Cache.Business.pdb
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Cache.Contracts.pdb
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Cache.DAL.pdb
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Cache.DAL.dll.config
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\EntityFramework.xml
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\EntityFramework.SqlServer.xml
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.AspNet.Identity.Core.xml
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.Owin.xml
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.Owin.Security.xml
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.Owin.Security.Cookies.xml
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.Owin.Security.OAuth.xml
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\SimpleInjector.xml
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\SimpleInjector.Integration.Web.xml
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\SimpleInjector.Integration.Web.Mvc.xml
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\System.Web.Helpers.xml
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\System.Web.Mvc.xml
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\System.Web.Optimization.xml
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\System.Web.Razor.xml
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\System.Web.WebPages.xml
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\System.Web.WebPages.Deployment.xml
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\System.Web.WebPages.Razor.xml
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Antlr3.Runtime.pdb
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Newtonsoft.Json.xml
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.ApplicationInsights.xml
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.AI.DependencyCollector.xml
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.AI.WindowsServer.xml
+D:\VS Studio\Cache3\Cache\Cache\Cache\bin\Microsoft.AI.Web.xml
+D:\VS Studio\Cache3\Cache\Cache\Cache\obj\Debug\Cache.csprojResolveAssemblyReference.cache
+D:\VS Studio\Cache3\Cache\Cache\Cache\obj\Debug\Cache.csproj.CoreCompileInputs.cache
+D:\VS Studio\Cache3\Cache\Cache\Cache\obj\Debug\Cache.dll
+D:\VS Studio\Cache3\Cache\Cache\Cache\obj\Debug\Cache.pdb
+D:\VS Studio\MyProject\Cache\bin\ApplicationInsights.config
+D:\VS Studio\MyProject\Cache\bin\roslyn\csc.exe
+D:\VS Studio\MyProject\Cache\bin\roslyn\csc.exe.config
+D:\VS Studio\MyProject\Cache\bin\roslyn\csc.rsp
+D:\VS Studio\MyProject\Cache\bin\roslyn\csi.exe
+D:\VS Studio\MyProject\Cache\bin\roslyn\csi.rsp
+D:\VS Studio\MyProject\Cache\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\VS Studio\MyProject\Cache\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\VS Studio\MyProject\Cache\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\VS Studio\MyProject\Cache\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\VS Studio\MyProject\Cache\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\VS Studio\MyProject\Cache\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\VS Studio\MyProject\Cache\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\VS Studio\MyProject\Cache\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\VS Studio\MyProject\Cache\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\VS Studio\MyProject\Cache\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\VS Studio\MyProject\Cache\bin\roslyn\System.AppContext.dll
+D:\VS Studio\MyProject\Cache\bin\roslyn\System.Collections.Immutable.dll
+D:\VS Studio\MyProject\Cache\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\VS Studio\MyProject\Cache\bin\roslyn\System.IO.FileSystem.dll
+D:\VS Studio\MyProject\Cache\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\VS Studio\MyProject\Cache\bin\roslyn\System.Reflection.Metadata.dll
+D:\VS Studio\MyProject\Cache\bin\roslyn\vbc.exe
+D:\VS Studio\MyProject\Cache\bin\roslyn\vbc.exe.config
+D:\VS Studio\MyProject\Cache\bin\roslyn\vbc.rsp
+D:\VS Studio\MyProject\Cache\bin\roslyn\VBCSCompiler.exe
+D:\VS Studio\MyProject\Cache\bin\roslyn\VBCSCompiler.exe.config
+D:\VS Studio\MyProject\Cache\bin\Cache.dll.config
+D:\VS Studio\MyProject\Cache\bin\Cache.dll
+D:\VS Studio\MyProject\Cache\bin\Cache.pdb
+D:\VS Studio\MyProject\Cache\bin\Antlr3.Runtime.dll
+D:\VS Studio\MyProject\Cache\bin\Cache.Business.dll
+D:\VS Studio\MyProject\Cache\bin\Cache.Contracts.dll
+D:\VS Studio\MyProject\Cache\bin\Cache.DAL.dll
+D:\VS Studio\MyProject\Cache\bin\EntityFramework.dll
+D:\VS Studio\MyProject\Cache\bin\EntityFramework.SqlServer.dll
+D:\VS Studio\MyProject\Cache\bin\Microsoft.AI.Agent.Intercept.dll
+D:\VS Studio\MyProject\Cache\bin\Microsoft.AI.DependencyCollector.dll
+D:\VS Studio\MyProject\Cache\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\VS Studio\MyProject\Cache\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\VS Studio\MyProject\Cache\bin\Microsoft.AI.Web.dll
+D:\VS Studio\MyProject\Cache\bin\Microsoft.AI.WindowsServer.dll
+D:\VS Studio\MyProject\Cache\bin\Microsoft.ApplicationInsights.dll
+D:\VS Studio\MyProject\Cache\bin\Microsoft.AspNet.Identity.Core.dll
+D:\VS Studio\MyProject\Cache\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\VS Studio\MyProject\Cache\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\VS Studio\MyProject\Cache\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\VS Studio\MyProject\Cache\bin\Microsoft.Owin.dll
+D:\VS Studio\MyProject\Cache\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\VS Studio\MyProject\Cache\bin\Microsoft.Owin.Security.Cookies.dll
+D:\VS Studio\MyProject\Cache\bin\Microsoft.Owin.Security.dll
+D:\VS Studio\MyProject\Cache\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\VS Studio\MyProject\Cache\bin\Microsoft.Owin.Security.OAuth.dll
+D:\VS Studio\MyProject\Cache\bin\Microsoft.Web.Infrastructure.dll
+D:\VS Studio\MyProject\Cache\bin\Newtonsoft.Json.dll
+D:\VS Studio\MyProject\Cache\bin\Owin.dll
+D:\VS Studio\MyProject\Cache\bin\SimpleInjector.dll
+D:\VS Studio\MyProject\Cache\bin\SimpleInjector.Integration.Web.dll
+D:\VS Studio\MyProject\Cache\bin\SimpleInjector.Integration.Web.Mvc.dll
+D:\VS Studio\MyProject\Cache\bin\System.Web.Helpers.dll
+D:\VS Studio\MyProject\Cache\bin\System.Web.Mvc.dll
+D:\VS Studio\MyProject\Cache\bin\System.Web.Optimization.dll
+D:\VS Studio\MyProject\Cache\bin\System.Web.Razor.dll
+D:\VS Studio\MyProject\Cache\bin\System.Web.WebPages.Deployment.dll
+D:\VS Studio\MyProject\Cache\bin\System.Web.WebPages.dll
+D:\VS Studio\MyProject\Cache\bin\System.Web.WebPages.Razor.dll
+D:\VS Studio\MyProject\Cache\bin\WebGrease.dll
+D:\VS Studio\MyProject\Cache\bin\Cache.Business.pdb
+D:\VS Studio\MyProject\Cache\bin\Cache.Contracts.pdb
+D:\VS Studio\MyProject\Cache\bin\Cache.DAL.pdb
+D:\VS Studio\MyProject\Cache\bin\Cache.DAL.dll.config
+D:\VS Studio\MyProject\Cache\bin\EntityFramework.xml
+D:\VS Studio\MyProject\Cache\bin\EntityFramework.SqlServer.xml
+D:\VS Studio\MyProject\Cache\bin\Microsoft.AspNet.Identity.Core.xml
+D:\VS Studio\MyProject\Cache\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\VS Studio\MyProject\Cache\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\VS Studio\MyProject\Cache\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\VS Studio\MyProject\Cache\bin\Microsoft.Owin.xml
+D:\VS Studio\MyProject\Cache\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\VS Studio\MyProject\Cache\bin\Microsoft.Owin.Security.xml
+D:\VS Studio\MyProject\Cache\bin\Microsoft.Owin.Security.Cookies.xml
+D:\VS Studio\MyProject\Cache\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\VS Studio\MyProject\Cache\bin\Microsoft.Owin.Security.OAuth.xml
+D:\VS Studio\MyProject\Cache\bin\SimpleInjector.xml
+D:\VS Studio\MyProject\Cache\bin\SimpleInjector.Integration.Web.xml
+D:\VS Studio\MyProject\Cache\bin\SimpleInjector.Integration.Web.Mvc.xml
+D:\VS Studio\MyProject\Cache\bin\System.Web.Helpers.xml
+D:\VS Studio\MyProject\Cache\bin\System.Web.Mvc.xml
+D:\VS Studio\MyProject\Cache\bin\System.Web.Optimization.xml
+D:\VS Studio\MyProject\Cache\bin\System.Web.Razor.xml
+D:\VS Studio\MyProject\Cache\bin\System.Web.WebPages.xml
+D:\VS Studio\MyProject\Cache\bin\System.Web.WebPages.Deployment.xml
+D:\VS Studio\MyProject\Cache\bin\System.Web.WebPages.Razor.xml
+D:\VS Studio\MyProject\Cache\bin\Antlr3.Runtime.pdb
+D:\VS Studio\MyProject\Cache\bin\Newtonsoft.Json.xml
+D:\VS Studio\MyProject\Cache\bin\Microsoft.ApplicationInsights.xml
+D:\VS Studio\MyProject\Cache\bin\Microsoft.AI.DependencyCollector.xml
+D:\VS Studio\MyProject\Cache\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\VS Studio\MyProject\Cache\bin\Microsoft.AI.WindowsServer.xml
+D:\VS Studio\MyProject\Cache\bin\Microsoft.AI.Web.xml
+D:\VS Studio\MyProject\Cache\obj\Debug\Cache.csprojResolveAssemblyReference.cache
+D:\VS Studio\MyProject\Cache\obj\Debug\Cache.csproj.CoreCompileInputs.cache
+D:\VS Studio\MyProject\Cache\obj\Debug\Cache.dll
+D:\VS Studio\MyProject\Cache\obj\Debug\Cache.pdb

@@ -1,0 +1,34 @@
+﻿@using Cache.Contracts.Model
+@model IEnumerable<BookSummary>
+@{
+    ViewBag.Title = "ViewBooks";
+}
+
+<h2 align="center"> Список книг </h2>
+<p>
+    <a href="@Url.Action("CreateBook","Book")" class="btn btn-primary" role="button"> Добавить </a>
+    <a href="@Url.Action("Index","Home")" class="btn btn-primary" role="button"> На главную </a>
+</p>
+<div class="row">
+    @foreach (var c in Model)
+    {
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail box">
+                <img src="@c.Url">
+                <div class="caption">
+                    <h3> @c.Name </h3>
+                    <p> Цена  @c.Price </p>
+                    <p>
+                        <a href="@Url.Action("DeleteBook","Book", new { id=c.Id})" class="btn btn-primary" role="button">Удалить</a>
+                        <a href="@Url.Action("SelectAuthors","Author",new { id = c.AuthorId, bookname = @c.Name })" class="btn btn-default" role="button">Инфо</a>
+                        <a href="@Url.Action("UpdateBook","Book", new { id=c.Id})" class="btn btn-primary" role="button">Изменить</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+         <a href="@Url.Action("Index","Home")" class="btn btn-primary" role="button"> На главную </a>
+
+
+

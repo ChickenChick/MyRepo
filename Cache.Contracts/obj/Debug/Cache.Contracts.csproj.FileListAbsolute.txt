@@ -1,0 +1,23 @@
+D:\Cache\Cache\Cache.Contracts\bin\Debug\Cache.Contracts.dll
+D:\Cache\Cache\Cache.Contracts\bin\Debug\Cache.Contracts.pdb
+D:\Cache\Cache\Cache.Contracts\bin\Debug\SimpleInjector.dll
+D:\Cache\Cache\Cache.Contracts\bin\Debug\SimpleInjector.xml
+D:\Cache\Cache\Cache.Contracts\obj\Debug\Cache.Contracts.csprojResolveAssemblyReference.cache
+D:\Cache\Cache\Cache.Contracts\obj\Debug\Cache.Contracts.csproj.CoreCompileInputs.cache
+D:\Cache\Cache\Cache.Contracts\obj\Debug\Cache.Contracts.dll
+D:\Cache\Cache\Cache.Contracts\obj\Debug\Cache.Contracts.pdb
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.Contracts\bin\Debug\Cache.Contracts.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.Contracts\bin\Debug\Cache.Contracts.pdb
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.Contracts\bin\Debug\SimpleInjector.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.Contracts\bin\Debug\SimpleInjector.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.Contracts\obj\Debug\Cache.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.Contracts\obj\Debug\Cache.Contracts.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.Contracts\obj\Debug\Cache.Contracts.pdb
+D:\VS Studio\Cache2\Cache\Cache\Cache.Contracts\bin\Debug\Cache.Contracts.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache.Contracts\bin\Debug\Cache.Contracts.pdb
+D:\VS Studio\Cache2\Cache\Cache\Cache.Contracts\bin\Debug\SimpleInjector.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache.Contracts\bin\Debug\SimpleInjector.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache.Contracts\obj\Debug\Cache.Contracts.csprojResolveAssemblyReference.cache
+D:\VS Studio\Cache2\Cache\Cache\Cache.Contracts\obj\Debug\Cache.Contracts.csproj.CoreCompileInputs.cache
+D:\VS Studio\Cache2\Cache\Cache\Cache.Contracts\obj\Debug\Cache.Contracts.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache.Contracts\obj\Debug\Cache.Contracts.pdb

@@ -1,0 +1,29 @@
+﻿@using Cache.Contracts.Model
+@model BookSummary
+@{
+    ViewBag.Title = "CreateBook";
+}
+
+<h2>Добавить книгу</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(model => model.Name, "Название книги")
+    <br />
+    @Html.EditorFor(model => model.Name)
+    <br /><br />
+    @Html.LabelFor(model => model.Price, "Цена")
+    <br />
+    @Html.EditorFor(model => model.Price)
+    <br /><br />
+    @Html.LabelFor(model => model.AuthorId, "Id Автора")
+    <br />
+    @Html.EditorFor(model => model.AuthorId)
+    <br /><br />
+    @Html.LabelFor(model => model.Url, "URL Картинки")
+    <br />
+    @Html.EditorFor(model => model.Url)
+    <br /><br />
+    <input type="submit" value="Добавить" />
+}
+

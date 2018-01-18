@@ -1,0 +1,30 @@
+﻿@using Cache.Contracts.Model
+@model AuthorSummary
+@{
+    ViewBag.Title = "UpdateAuthor";
+}
+
+<h2> Изменение автора </h2>
+@using (Html.BeginForm())
+{
+    <fieldset>
+        @Html.HiddenFor(m => m.Id)
+        <p>
+            @Html.LabelFor(m => m.FirstName, "Имя")
+            <br />
+            @Html.EditorFor(m => m.FirstName)
+        </p>
+        <p>
+            @Html.LabelFor(m => m.LastName, "Фамилия")
+            <br />
+            @Html.EditorFor(m => m.LastName)
+        </p>
+        <p>
+            @Html.LabelFor(m => m.BirthDay, "Дата рождения")
+            <br />
+            @Html.EditorFor(m => m.BirthDay)
+        </p>
+
+        <p> <input type="submit" value="Изменить" /> </p>
+    </fieldset>
+}

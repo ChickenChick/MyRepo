@@ -1,0 +1,48 @@
+D:\Cache\Cache\Cache.DAL\obj\Debug\Cache.DAL.csprojResolveAssemblyReference.cache
+D:\Cache\Cache\Cache.DAL\obj\Debug\Cache.DAL.csproj.CoreCompileInputs.cache
+D:\Cache\Cache\Cache.DAL\bin\Debug\Cache.DAL.dll.config
+D:\Cache\Cache\Cache.DAL\bin\Debug\Cache.DAL.dll
+D:\Cache\Cache\Cache.DAL\bin\Debug\Cache.DAL.pdb
+D:\Cache\Cache\Cache.DAL\bin\Debug\Cache.Contracts.dll
+D:\Cache\Cache\Cache.DAL\bin\Debug\EntityFramework.dll
+D:\Cache\Cache\Cache.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Cache\Cache\Cache.DAL\bin\Debug\SimpleInjector.dll
+D:\Cache\Cache\Cache.DAL\bin\Debug\Cache.Contracts.pdb
+D:\Cache\Cache\Cache.DAL\bin\Debug\EntityFramework.xml
+D:\Cache\Cache\Cache.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Cache\Cache\Cache.DAL\bin\Debug\SimpleInjector.xml
+D:\Cache\Cache\Cache.DAL\obj\Debug\Cache.DAL.dll
+D:\Cache\Cache\Cache.DAL\obj\Debug\Cache.DAL.pdb
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.DAL\obj\Debug\Cache.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.DAL\obj\Debug\Cache.DAL.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.DAL\obj\Debug\Cache.DAL.pdb
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.DAL\bin\Debug\Cache.DAL.dll.config
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.DAL\bin\Debug\Cache.DAL.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.DAL\bin\Debug\Cache.DAL.pdb
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.DAL\bin\Debug\Cache.Contracts.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.DAL\bin\Debug\SimpleInjector.dll
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.DAL\bin\Debug\Cache.Contracts.pdb
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.DAL\bin\Debug\SimpleInjector.xml
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.DAL\obj\Debug\Cache.DAL.Migrations.MigrateDB.resources
+C:\Users\Nuare\Desktop\Cache2\Cache\Cache\Cache.DAL\obj\Debug\Cache.DAL.csproj.GenerateResource.Cache
+D:\VS Studio\Cache2\Cache\Cache\Cache.DAL\bin\Debug\Cache.DAL.dll.config
+D:\VS Studio\Cache2\Cache\Cache\Cache.DAL\bin\Debug\Cache.DAL.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache.DAL\bin\Debug\Cache.DAL.pdb
+D:\VS Studio\Cache2\Cache\Cache\Cache.DAL\bin\Debug\Cache.Contracts.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache.DAL\bin\Debug\EntityFramework.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache.DAL\bin\Debug\SimpleInjector.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache.DAL\bin\Debug\Cache.Contracts.pdb
+D:\VS Studio\Cache2\Cache\Cache\Cache.DAL\bin\Debug\EntityFramework.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache.DAL\bin\Debug\SimpleInjector.xml
+D:\VS Studio\Cache2\Cache\Cache\Cache.DAL\obj\Debug\Cache.DAL.csprojResolveAssemblyReference.cache
+D:\VS Studio\Cache2\Cache\Cache\Cache.DAL\obj\Debug\Cache.DAL.Migrations.MigrateDB.resources
+D:\VS Studio\Cache2\Cache\Cache\Cache.DAL\obj\Debug\Cache.DAL.csproj.GenerateResource.Cache
+D:\VS Studio\Cache2\Cache\Cache\Cache.DAL\obj\Debug\Cache.DAL.csproj.CoreCompileInputs.cache
+D:\VS Studio\Cache2\Cache\Cache\Cache.DAL\obj\Debug\Cache.DAL.dll
+D:\VS Studio\Cache2\Cache\Cache\Cache.DAL\obj\Debug\Cache.DAL.pdb
